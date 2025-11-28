@@ -97,6 +97,7 @@ class mywidget(QtWidgets.QWidget):
             self.startbutton.setText("Pause")
         else:
             self.isTimerStarted = False
+            self.total_time = self.minutes*60
             self.qtimer.stop()
             self.Timer.setText(self.formatTimer(0))
             self.startbutton.setText("Start")
