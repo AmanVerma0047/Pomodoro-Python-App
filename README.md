@@ -28,7 +28,7 @@ Simple interface with an illustration to keep you in a good mood while you work.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/pomodoro-focus.git
+git clone the repo.
 
 
 Navigate into the project folder:
