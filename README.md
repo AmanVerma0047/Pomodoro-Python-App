@@ -17,10 +17,10 @@ Automatically notifies you when your Pomodoro session is finished.
 Minimal & Clean UI
 Simple interface with an illustration to keep you in a good mood while you work.
 
-📸 Screenshot
-<img width="301" height="344" alt="image" src="https://github.com/user-attachments/assets/b7fc7274-cd26-4a5d-8b2b-f6dad5a89f2a" />
+📸 Screenshot<br>
+<img width="301" height="344" alt="image" src="https://github.com/user-attachments/assets/b7fc7274-cd26-4a5d-8b2b-f6dad5a89f2a" /><br>
 <img width="726" height="251" alt="image" src="https://github.com/user-attachments/assets/2d516a41-d2ee-4539-815d-00298540b22e" />
-
+<br>
 
 
 
